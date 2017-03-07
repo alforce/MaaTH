@@ -5,8 +5,8 @@
  */
 
 /*!
- * Generated using the Bootstrap Customizer (http://getbootstrap.com/customize/?id=7efd7284343b4f9271ae3eecfe1f5489)
- * Config saved to config.json and https://gist.github.com/7efd7284343b4f9271ae3eecfe1f5489
+ * Generated using the Bootstrap Customizer (http://getbootstrap.com/customize/?id=6b5e74d095524bdeb86af82d8be3a975)
+ * Config saved to config.json and https://gist.github.com/6b5e74d095524bdeb86af82d8be3a975
  */
 /*!
  * Bootstrap v3.3.7 (http://getbootstrap.com)
@@ -332,31 +332,6 @@ tbody.collapse.in {
   -webkit-transition-timing-function: ease;
   -o-transition-timing-function: ease;
      transition-timing-function: ease;
-}
-.close {
-  float: right;
-  font-size: 21px;
-  font-weight: bold;
-  line-height: 1;
-  color: #000000;
-  text-shadow: 0 1px 0 #ffffff;
-  opacity: 0.2;
-  filter: alpha(opacity=20);
-}
-.close:hover,
-.close:focus {
-  color: #000000;
-  text-decoration: none;
-  cursor: pointer;
-  opacity: 0.5;
-  filter: alpha(opacity=50);
-}
-button.close {
-  padding: 0;
-  cursor: pointer;
-  background: transparent;
-  border: 0;
-  -webkit-appearance: none;
 }
 .modal-open {
   overflow: hidden;
